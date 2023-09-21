@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/otomazra/Frontend-Mentor-Newsletter-sign-up-form-with-success-message-solution.git)
+- Live Site URL: [GitHub](https://otomazra.github.io/Frontend-Mentor-Newsletter-sign-up-form-with-success-message-solution/)
 
 ## My process
 
